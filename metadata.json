@@ -1,0 +1,6 @@
+{
+  "name": "Evaluations Management System",
+  "description": "An evaluation CRUD system including a simulated AWS Lambda backend, DynamoDB visualization, and CloudWatch log monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
